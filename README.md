@@ -1,2 +1,4 @@
-# yggdrasil-setup-guide
-Setup guide for Yggdrasil network on Windows
+# Yggdrasil network setup guide
+
+РУССКАЯ ВЕРСИЯ:
+RUSSIAN VERSION:
