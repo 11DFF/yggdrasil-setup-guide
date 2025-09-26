@@ -1,5 +1,3 @@
 # Yggdrasil network setup guide
+[РУССКАЯ ВЕРСИЯ (кликабельно)](https://github.com/11DFF/yggdrasil-setup-guide/blob/main/README-RUS.md)
 <br>
-РУССКАЯ ВЕРСИЯ: https://github.com/11DFF/yggdrasil-setup-guide/blob/main/README-RUS.md
-<br>
-RUSSIAN VERSION: https://github.com/11DFF/yggdrasil-setup-guide/blob/main/README-RUS.md
