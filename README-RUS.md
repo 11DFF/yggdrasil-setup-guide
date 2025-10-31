@@ -4,5 +4,5 @@
 <br>Здесь не будет какого-либо углублённого изучения или чего-либо в этом духе. Только установка и настройка для обычного пользователя.
 
 # Установка
-Для установки нажмите [сюда](https://github.com/yggdrasil-network/yggdrasil-go/releases) (раздел Releases проекта Yggdrasil). Перед вами откроется самый новый релиз.
-<br>
+Перейдите [сюда](https://github.com/yggdrasil-network/yggdrasil-go/releases) (раздел Releases проекта Yggdrasil). Перед вами откроется самый новый релиз.
+<br>Прокрутите страницу до "Assets" и внизу нажмите "Show all assets".
