@@ -5,4 +5,10 @@
 
 # Установка
 Перейдите [сюда](https://github.com/yggdrasil-network/yggdrasil-go/releases) (раздел Releases проекта Yggdrasil). Перед вами откроется самый новый релиз.
-<br>Прокрутите страницу до "Assets" и внизу нажмите "Show all assets".
+<br>Прокрутите страницу до "Assets" и внизу нажмите "Show all assets", как на картинке:<br>
+![scr1](images/firefox_Az41Y4s9kU.png)
+<br>(версии могут отличаться от тех, что на скриншоте, это нормально)<br>
+<br>Список станет больше.
+<br>После этого найдите сборки для Windows.
+<br>На скриншоте нужные варианты выделены красным:
+![scr2](images/firefox_0ziSCO9xlT.png)
