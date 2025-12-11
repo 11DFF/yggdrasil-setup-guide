@@ -34,3 +34,4 @@
 <br>Так это выглядит в Windows 11:
 ![scr3](images/explorer_fZ8QZUOAxF.png)
 <br>Теперь отредактируем конфиг.
+<br> TODO
